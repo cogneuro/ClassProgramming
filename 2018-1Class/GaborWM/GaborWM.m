@@ -1,4 +1,4 @@
-function GaborWM9(varargin)
+function GaborWM(varargin)
 % 161205. from GaborWM8 class practice
 
 try
